@@ -14,7 +14,7 @@ Download the latest github release on the right.
 ### Option 2
 Download it from Google Drive (Alpha_v1.3): https://drive.google.com/file/d/1cVD4SotIx55i17s0ocn6yyXOufThp-7U/view?usp=sharing
 
-## Additional information
+## Additional Information
 
 ### Used Assets
 Animations: ExplosiveLLC Mecanim, Great Dual Blade Animset, Script Wizard Anim Set, Mixamo  
